@@ -1,7 +1,7 @@
 # Drupal-beginner
 This is the repository for Drupal beginners to understrand the basic concepts of drupal. This project is about Events happening in particular duration and participents enrolling events.
 
-## Areas covered 
+## Topics include
   - Content types
   - Blocks
   - Views

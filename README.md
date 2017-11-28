@@ -7,6 +7,7 @@ This is the repository for Drupal beginners to understrand the basic concepts of
   - Views
   - Configurations
   - Slideshow
+  - Theming
   
 With events and participant content type, User can enroll to events.
 Seperate views for events, entries of user across events and filters enabled.
